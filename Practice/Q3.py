@@ -15,3 +15,4 @@ scores.reverse()
 avg =  sum(scores) / len(scores)
 print(f"{scores}")
 print(f"{avg:.2f}")
+
